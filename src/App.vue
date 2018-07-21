@@ -2,7 +2,7 @@
   <div id="app">
     <b-navbar toggleable="md" type="dark" variant="dark">
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
-      <b-navbar-brand to="/"> My Vue App</b-navbar-brand>
+      <b-navbar-brand to="/"> Basic CRUD App using Vue</b-navbar-brand>
       <b-collapse is-nav id="nav_collapse">
         <b-navbar-nav>
           <b-nav-item to="/"> Home</b-nav-item>
